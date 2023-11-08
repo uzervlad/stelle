@@ -1,0 +1,17 @@
+{
+  "profiles": [
+    {
+      "uid": 1234567890,
+      "cookie": "",
+      "power_threshold": 180,
+      "reserve_threshold": 2000
+    }
+  ],
+  "telegram": {
+    "token": "1234567890:ABCDEFGHIJKILMNOPQRSTUVWXYZ",
+    "chat_id": 365192135
+  },
+  "check_in": "0 0 0 * * *",
+  "daily_reminder": "0 0 23 * * *",
+  "weekly_reminder": "0 0 23 * * 0"
+}
